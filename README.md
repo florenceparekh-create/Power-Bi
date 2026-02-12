@@ -52,4 +52,4 @@ KPI Cards
 ->Smoothies and Salads generated highest revenue.
 ->A significant portion of records contained unknown location and payment method.
 ->Cash appears to be a dominant payment method.
-->This data had many missing values and errors drawing exact conclusion is not reasonable but we can predict with the data we have
+->THIS DATA HAD MANY MISSING VALUES AND ERRORS DRAWING EXACT CONCLUSION IS NOT RELIABLE BUT WE CAN GET PREDICTION WITH THE AVAILABLE  DATA.
